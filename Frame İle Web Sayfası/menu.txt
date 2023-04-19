@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title>menu</title>
+
+	</head>
+	
+	<body bgcolor="#5A0E27">
+
+<h1 color="black" align="center">Menü</h1>
+		
+		<ul>
+<li><a href="tarihce.html" target="icerik"><font size="3" color="white" face="Comic Sans MS">Tarihçe</font></a></li><br><br><br>
+<li><a href="kadro.html" target="icerik" ><font size="3" color="white" face="Comic Sans MS">Kadro</font></a></li><br><br><br>
+<li><a href="yönetim.html" target="icerik" ><font size="3" color="white" face="Comic Sans MS">Yönetim</font></a></li><br><br><br>
+<li><a href="basarılar.html" target="icerik" ><font size="3" color="white" face="Comic Sans MS">Başarılarımız</font></a></li><br><br> <br>
+<li><a href="form.html" target="icerik"><font size="3" color="white" face="Comic Sans MS">Üyelik Formu</font></a></li><br><br><br>
+<li><a href="icerik.html" target="icerik" ><font size="3" color="white" face="Comic Sans MS">Ana Sayfaya Dön</font></a></li><br><br><br>
+		
+		</ul>
+	</body>
+</html>

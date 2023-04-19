@@ -1,0 +1,83 @@
+<html>
+
+		<head>
+
+				<title>Web Site</title>
+
+								</head>
+
+	<link rel="stylesheet" type="text/css" href="stil.css">
+
+		<body>
+
+
+	<table border="1" width="400" height="150" align="center" valign="middle">
+			
+		<tr height="100">
+			<td colspan="2">
+				<img src="banner.png" alt="BANNER">
+			</td>
+		</tr>
+		
+		
+
+		
+		<td valign="top">
+<div class="header-menu">
+    <ul>
+        <li><a href="#">Hakkında</a>
+	
+		<ul>
+                <li><a href="#">Tarihimiz</a></li>
+                <li><a href="#">Teklifler</a></li>
+                <li><a href="#">Haberler</a>
+		
+			<ul>
+                
+		<li><a href="#">Yeni</a></li>
+                <li><a href="#">Arşiv</a></li>
+                
+		       </ul>
+			</ul>
+		</li>
+
+	 <li><a href="#">Hizmetler</a></li>
+        <li><a href="#">Personelimiz</a></li>
+        <li><a href="#">Fiyat</a></li>
+        <li><a href="#">Kişiler</a></li>
+
+</ul>
+
+</div> <img src="1.png"> <br>
+	
+	
+
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="2.png"> <br>
+
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="3.png"> <img src="4.png"> 
+
+
+		
+	
+		<img src="9.png"><img src="10.png">
+
+
+
+	
+	
+					
+							
+						</td>
+		</table>
+
+
+
+
+
+
+
+
+														</body>
+
+
+</html>

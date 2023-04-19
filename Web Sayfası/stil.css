@@ -1,0 +1,81 @@
+*{ padding: 0;    border: 0;    outline: 0;    list-style:none; text-decoration:none;}
+.header-menu{
+    width:620px;
+    height:50px;
+    float:left;
+    background:white;
+    position:relative;
+    
+    }
+
+.header-menu a{
+    width:auto;
+    height:35px;
+    float:left;
+    font-size:12px;
+    color:black;
+    padding-left:18px;
+    padding-right:18px;
+    border-right:solid 1px white;
+    line-height:45px;
+    }
+    
+.header-menu a:hover{
+    background:url(img/cizgi.png) right no-repeat #f57e20;
+    }
+
+
+
+.header-menu  li{
+    width:auto;
+    height:46px;
+    float:left;
+    position:relative;
+    }
+
+.header-menu  ul li ul{
+    width:180px;
+    height:auto;
+    float:left;
+    position:absolute;
+    background:#6c6b6b;
+    top:35px;
+    left:1px;
+    z-index:1;
+    display:none;
+    }
+
+.header-menu  ul li ul a{
+    width:163px;
+    height:30px;
+    line-height:30px;
+    float:left;
+    padding:0 0 0 17px;
+    border-top: dashed 1px gray;
+    background:none;
+    }
+
+.header-menu  ul li ul li {
+    height:30px;
+    line-height:30px;
+    }
+
+
+
+.header-menu  li:hover >  ul{
+    display: block;
+    }
+
+
+
+.header-menu  ul li ul li ul{
+    width:180px;
+    height:auto;
+    float:left;
+    position:absolute;
+    background:#6c6b6b;
+    top:0px;
+    left:180px;
+    z-index:1;
+    display:none;
+    }

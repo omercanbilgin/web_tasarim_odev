@@ -1,0 +1,21 @@
+
+<html>
+<head>
+	<title>Trabzonspor</title>
+<link rel="shortcut icon" href="logo.png"/>
+</head>
+	<frameset rows="20%,70%" border="0">
+		<frame name="banner" src="banner.html"noresize scrolling="no"></frame>
+		<frame name="sayfa" src="sayfa.html"noresize scrolling="no" ></frame>
+</frameset>
+</html>
+
+
+
+
+
+
+
+
+
+

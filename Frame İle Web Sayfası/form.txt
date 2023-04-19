@@ -1,0 +1,106 @@
+<html>
+
+<head>
+
+	<title>Form</title>
+
+</head>
+
+
+<body bgcolor="#75B7E5" >
+
+
+	<form>
+		<div align="center" valign="top"> <table border="2" width="200" height="460" align="center">
+	<tr>
+	
+<td colspan="2" valign="top" width="250" height="50">
+		<h1 align="center"><font face="Comic Sans MS" >Üyelik Başvuru Formu</font></h1></td>
+      
+	</tr>
+	
+	
+	<tr>
+	
+	<td><font face="Comic Sans MS" >Adı</font></td>
+	<td><input type = "text"></td>
+      
+	</tr>
+	
+	<tr>
+	
+	<td><font face="Comic Sans MS" >Soyadı</font></td>
+	<td><input type = "text"></td>
+      
+	</tr>
+	
+	<tr>
+	
+	<td><font face="Comic Sans MS" >Doğum Tarihi</font></td>
+	<td><input type = "date"></td>
+      
+	</tr>
+
+	
+	<tr>
+			<td><font face="Comic Sans MS">Cinsiyet</font></td>
+<td><input type="radio" name="cns"><font face="Comic Sans MS">Erkek</font><input type="radio" name="cns"><font face="Comic Sans MS">Kadın</font></td>
+	</tr>
+
+	<tr>
+<td><font face="Comic Sans MS" >Adres</font></td>
+<td>
+    <textarea cols="40" rows="3"></textarea>
+</td>
+</tr>
+
+
+
+</tr>
+
+	<tr>
+<td><font face="Comic Sans MS" >Eğitim</font></td>
+<td>
+<select name="egitim">
+<option value="lise">Lise</option> 
+<option value="onlisans">Ön Lisans</option>
+<option value="lisans">Lisans</option>
+<option value="y.lisans">Y.Lisans</option>
+<option value="doktora">Doktora</option>
+</select>
+</td>
+</tr>
+
+	<tr>
+<td><font face="Comic Sans MS" >Meslek</font></td>
+<td>
+    <textarea cols="40" rows="3"></textarea>
+</td>
+</tr>
+
+<tr>
+<td><font face="Comic Sans MS" >E-mail Adresi</font></td>
+<td>
+<textarea cols="40" rows="4"></textarea>
+</td>
+</tr>
+	
+	<tr>
+<td colspan="2" align="center">
+<input type="submit" 
+  value="Kaydet">
+<input type="submit" 
+  value="Temizle">
+</td>
+</tr>
+
+ 
+ 
+</div></table>
+</form>
+
+
+</body>
+
+
+</html>

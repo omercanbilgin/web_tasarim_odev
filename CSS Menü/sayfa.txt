@@ -1,0 +1,128 @@
+<html>
+      <head>
+		<title>
+			CSS MENÜ  </title>		
+				     
+						</head>
+
+
+<link rel="stylesheet" type="text/css" href="stil.css">
+
+	
+	<body bgcolor="#75B7E5" >
+
+
+
+<div class="header-menu">
+    <ul>
+        <li><a href="#">Ana Sayfa</a></li>
+       
+	 <li><a href="#">Takımlar →</a>
+             <ul>
+                <li><a href="#">A Takım → </a>
+		    
+		 <ul>
+                        <li><a href="#">Kaleci</a></li>
+                        <li><a href="#">Defans</a></li>
+                        <li><a href="#">Orta Saha</a></li>
+                        <li><a href="#">Forvet</a></li>
+			<li><a href="#">Teknik Ekip</a></li>
+                    </ul>			
+
+		</li>
+                <li><a href="#">Kadın Futbol →</a>
+		     
+		<ul>
+                        <li><a href="#">Kaleci</a></li>
+                        <li><a href="#">Defans</a></li>
+                        <li><a href="#">Orta Saha</a></li>
+                        <li><a href="#">Forvet</a></li>
+			<li><a href="#">Teknik Ekip</a></li>
+                    </ul>
+
+		</li>
+                <li><a href="#">Altyapı →</a>
+                     <ul>
+                        <li><a href="#">Kaleci</a></li>
+                        <li><a href="#">Defans</a></li>
+                        <li><a href="#">Orta Saha</a></li>
+                        <li><a href="#">Forvet</a></li>
+			<li><a href="#">Teknik Ekip</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Basketbol</a></li>
+		<li><a href="#">Hentbol</a></li>
+            </ul>
+        </li>
+       
+	<li><a href="#">Tarihçe</a></li>
+        
+	<li><a href="#">Yönetim →</a>
+
+                     <ul>
+                        
+			<li><a href="#">Başkan</a></li>
+                        <li><a href="#">Başkan Yardımcısı</a></li>
+                        <li><a href="#">Genel Sekreter</a></li>
+                        <li><a href="#">Dış İlişkiler Sorumlusu</a></li>
+			<li><a href="#">Sağlık Kurulu Başkanı</a></li>
+			<li><a href="#">Yönetim Üyeleri →</a>
+	             
+		<ul>
+                        <li><a href="#">İbrahim AYDIN</a></li>
+                        <li><a href="#">İbrahim TÜFEKÇİ</a></li>
+                        <li><a href="#">Ahmet BEŞİR</a></li>
+                        <li><a href="#">Coşkun ÖZTÜRK</a></li>
+			<li><a href="#">Ertuğ ÖZARMAN</a></li>
+                    </ul>
+
+
+		
+			</li>
+			
+                  </ul>
+
+
+</li>
+        
+	
+	<li><a href="#">Başarılar →</a>
+		
+	             <ul>
+                        <li><a href="#">Lig Şampiyonluğu</a></li>
+                        <li><a href="#">Kupa Şampiyonluğu</a></li>
+                        <li><a href="#">Süper Kupa</a></li>
+                        <li><a href="#">Cumhurbaşkanlığı Kupası</a></li>
+			<li><a href="#">Başbakanlık Kupası</a></li>	
+			<li><a href="#">Gol Krallıkları →</a>
+	
+		 <ul>
+                        <li><a href="#">Alexander Sorloth</a></li>
+                        <li><a href="#">Hami Mandıralı</a></li>
+                        <li><a href="#">Fatih Tekke</a></li>
+                        <li><a href="#">Burak Yılmaz</a></li>
+			<li><a href="#">Necmi Perekli</a></li>
+			<li><a href="#">Şota Arveladze</a></li>
+                    </ul>
+			
+		
+				</li>
+                    </ul>
+
+
+	</li>
+        <li><a href="#">Fikstür</a></li>
+	<li><a href="#">Arşiv</a></li>
+	<li><a href="#">Üye Formu</a></li>
+    </ul>
+</div> <br> <br> <br> <br> 
+
+
+<font size="4" face="Comic Sans MS" ><p align="center" valign="center"> Trabzonspor internet sayfasına hoşgeldiniz. Lütfen gitmek istediğiniz sayfaya üst taraftaki menüden tıklayınız.</p></font>
+
+<div align="center" valign="top"><img src="logo.png"</div>
+
+
+</body>
+
+</html>

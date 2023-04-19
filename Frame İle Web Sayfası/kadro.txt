@@ -1,0 +1,63 @@
+<html>
+
+<head>
+
+<title></title>
+
+</head>
+
+<body bgcolor="#75B7E5">
+
+<font face="Comic Sans MS"><h2>A Takım Kadrosu</h2></font>
+
+<table border="0">
+
+<tr>
+
+<td><img src="1.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp Uğurcan Çakır</font></td>
+<td><img src="2.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Bruno Peres</font></td>
+<td><img src="3.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Marc Bartra</font></td>
+<td><img src="4.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Vitor Hugo</font></td>
+<td><img src="5.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Eren Elmalı</font></td>
+<td><img src="6.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp &nbsp Edin Vişça</font></td>
+<td><img src="7.png" width="150" height="150" ><br><font face="Comic Sans MS">Tasos Bakasetas</font></td>
+
+
+</tr>
+
+<tr>
+<td><img src="8.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp Manolis Siopis</font></td>
+<td><img src="9.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp &nbsp Marek Hamsik</font></td>
+<td><img src="10.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp &nbspTrezeguet</font></td>
+<td><img src="11.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp &nbsp &nbspMaxi Gomez</font></td>
+<td><img src="12.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp Djaniny Semedo</font></td>
+<td><img src="13.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp Dorukhan Toköz</font></td>
+<td><img src="14.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp &nbspEnis Bardhi</font></td>
+
+
+</tr>
+
+</tr>
+
+<tr>
+<td><img src="15.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Jean Gbamin</font></td>
+<td><img src="16.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp Stefano Denswil</font></td>
+<td><img src="17.png" width="150" height="150"><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Umut Bozok</font></td>
+<td><img src="18.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Yusuf Yazıcı</font></td>
+<td><img src="19.png" width="150" height="150" ><br><font face="Comic Sans MS"> &nbsp &nbsp &nbsp Jens Larsen</font></td>
+<td><img src="20.png" width="150" height="150" ><br><font face="Comic Sans MS">&nbsp &nbsp &nbsp Naci Ünüvar</font></td>
+<td><img src="21.png" width="150" height="150" ><br><font face="Comic Sans MS">Montassir Lahtimi</font></td>
+
+
+
+</tr>
+
+
+
+
+
+</table>
+</body>
+
+
+</html>

@@ -1,0 +1,47 @@
+<html>
+
+<head>
+
+<title></title>
+
+</head>
+
+<body bgcolor="#75B7E5">
+
+<font face="Comic Sans MS" ><h2>Yönetim</h2></font>
+<ul>
+
+<font face="Comic Sans MS"><li><h3>Başkan</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3">Ahmet Ali AĞAOĞLU</font>
+
+<font face="Comic Sans MS"><li><h3>Asbaşkan</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3">Ertuğrul DOĞAN</font>
+
+<font face="Comic Sans MS"><li><h3>Genel Sekreter</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3">Ömer SAĞIROĞLU</font>
+
+<font face="Comic Sans MS"><li><h3>Başkan Yardımcısı</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3">Müminhan BİLGİN<br></font>
+<font face="Comic Sans MS" color="white" size="3">Zeyyat KAFKAS</font>
+
+<font face="Comic Sans MS"><li><h3>Sağlık Kurulu Başkanı</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3" >Kibar Yaşar GÜVEN</font>
+
+<font face="Comic Sans MS"><li><h3>Dış İlişkiler Sorumlusu</h3></li></font>
+<font face="Comic Sans MS" color="white"size="3" >Esat EMANET</font>
+
+<font face="Comic Sans MS"><li><h3>Amatör Branşlar Sorumlusu</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3">Sami KARAMAN</font>
+
+
+<font face="Comic Sans MS"><li><h3>Pazarlama</h3></li></font>
+<font face="Comic Sans MS" color="white" size="3" >Ertuğ ÖZARMAN</font>
+
+<div align="right" valign="top"><img src="logo.png"></div>
+
+
+
+</body>
+
+
+</html>
